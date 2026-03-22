@@ -1,8 +1,15 @@
-# Cura
+# CarerCarer
 
-Cura is a voice-first companion for unpaid elderly carers in the UK. It combines an accessible Flutter app, a Twilio-based phone-call backend, Supabase data storage, and AI-powered conversation/letter understanding so a user can check in with Cura by tapping an orb in the app or by receiving a scheduled phone call.
+CarerCarer is a voice-first support app for unpaid elderly carers in the UK. Inside the product, the AI assistant persona is called `Cura`.
+
+The project combines an accessible Flutter app, a Twilio-based phone-call backend, Supabase data storage, and AI-powered conversation/letter understanding so a user can check in with Cura by tapping an orb in the app or by receiving a scheduled phone call.
 
 The project is built around a simple idea: support someone who may be isolated, under pressure, or not comfortable with complex interfaces by making the product feel like a calm conversation rather than a traditional app.
+
+## Naming
+
+- `CarerCarer` = the project / repository / app product name
+- `Cura` = the assistant character users talk to inside the app
 
 ## What the project does
 

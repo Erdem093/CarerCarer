@@ -1,4 +1,4 @@
-# Cura app directory
+# CarerCarer app directory
 
 The main project README lives at the repository root:
 
